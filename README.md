@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C# , Blazor WebAssembly**
 
-- 💬 Ask me about **JS , React , TS , c# , Blazor**
+- 💬 Ask me about **JS , React , TS , C# , Blazor**
 
-- 📫 How to reach me **hesamhosseini.dev@gmail.com**
+- 📫 You can reach me at **hesamhosseini.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
