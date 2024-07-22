@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hesam</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
-- 🔭 I’m currently working on [MyProcess](https://www.mydata-co.com/)
-
 - 🌱 I’m currently learning **C# , Blazor WebAssembly**
 
-- 💬 Ask me about **JS , React , TS , C# , Blazor**
+- 💬 Ask me about **JS , React , TS , Next JS**
 
 - 📫 You can reach me at **hesamhosseini.dev@gmail.com**
 
