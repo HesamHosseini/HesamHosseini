@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hesam</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
-- 🌱 I’m currently learning **C# , Blazor WebAssembly**
+- 🌱 I’m currently learning **Node JS , Express JS**
 
 - 💬 Ask me about **JS , React , TS , Next JS**
 
