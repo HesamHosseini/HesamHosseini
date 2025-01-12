@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-End Developer | Exploring Full-Stack Development</h3>
 
 - 🌱 I’m currently learning **Node.js, Express.js**
-- 💬 Ask me about **JavaScript, React, TypeScript, Next.js**
+- 💬 Ask me about **JavaScript, React, TypeScript, Next.js, Tailwind CSS, and modern UI libraries like shadcn and Headless UI**
 - 📫 How to reach me: **hesamhosseini.dev@gmail.com**
 
 ---
@@ -25,6 +25,12 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icon.png" alt="shadcn" width="40" height="40"/>
+  </a>
+  <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
+    <img src="https://headlessui.com/img/logo-dark.svg" alt="headlessui" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
@@ -56,6 +62,24 @@
 
 ---
 
+### 🚀 What I'm Up To
+
+- 🔭 I’m currently working on **building scalable web applications** using **Next.js 15**, **Tailwind CSS**, and modern UI libraries like **shadcn** and **Headless UI**.
+- 🌱 I’m diving deeper into **backend development with Node.js and Express.js**.
+- 👯 I’m looking to collaborate on **open-source projects** that leverage cutting-edge front-end technologies.
+- 🤔 I’m exploring **full-stack development** to expand my skill set and build end-to-end solutions.
+
+---
+
+### 🛠️ Why I Love These Tools
+
+- **Next.js 15**: The latest version of Next.js brings even more performance optimizations, server-side rendering (SSR), and static site generation (SSG) capabilities, making it my go-to framework for building modern web applications.
+- **Tailwind CSS**: Utility-first CSS framework that allows me to build responsive and customizable UIs quickly and efficiently.
+- **shadcn**: A collection of beautifully designed, accessible, and customizable UI components built on top of Tailwind CSS and Radix UI. It’s perfect for building modern, high-quality interfaces.
+- **Headless UI**: A set of completely unstyled, fully accessible UI components that integrate seamlessly with Tailwind CSS. It’s ideal for building custom, accessible designs without the bloat of pre-styled components.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,15 +101,6 @@
 
 ---
 
-### 🚀 What I'm Up To
-
-- 🔭 I’m currently working on **building scalable web applications**.
-- 🌱 I’m diving deeper into **backend development with Node.js and Express.js**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m exploring **full-stack development** to expand my skill set.
-
----
-
 ### 📧 Let's Collaborate!
 
-If you have an exciting project or just want to chat about tech, feel free to reach out to me at **hesamhosseini.dev@gmail.com**. Let's build something amazing together! 🚀
+If you have an exciting project or just want to chat about **Next.js 15**, **Tailwind CSS**, **shadcn**, **Headless UI**, or anything tech-related, feel free to reach out to me at **hesamhosseini.dev@gmail.com**. Let's build something amazing together! 🚀
