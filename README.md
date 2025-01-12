@@ -27,10 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icon.png" alt="shadcn" width="40" height="40"/>
-  </a>
-  <a href="https://headlessui.com/" target="_blank" rel="noreferrer">
-    <img src="https://headlessui.com/img/logo-dark.svg" alt="headlessui" width="40" height="40"/>
+    <img src=	"https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
